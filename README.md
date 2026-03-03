@@ -9,7 +9,7 @@
     <strong>Transformando designs complexos em interfaces performáticas, acessíveis e escaláveis.</strong>
   </p>
   <p>
-    Sou especialista em Frontend com atuação consolidada e desenvolvedor Fullstack em constante evolução. Atualmente atuo no laboratório corporativo <b>Echo AI Lab (EchoHub)</b>, unindo interfaces modernas (React/Next.js) com backends eficientes (Node.js/Fastify) e soluções de inteligência artificial.
+    Sou especialista em Frontend com atuação consolidada e desenvolvedor Fullstack em constante evolução, unindo interfaces modernas (React/Next.js) com backends eficientes (Node.js/Fastify) e soluções de inteligência artificial.
   </p>
 </div>
 
@@ -17,7 +17,6 @@
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando com **Desenvolvimento Fullstack na EchoHub / Echo AI Lab**
 - 💻 Foco principal: **React.js, Next.js, TypeScript e Tailwind CSS**
 - 🔧 Em evolução contínua no Backend: **Node.js, Fastify, APIs RESTful e GraphQL**
 - 🎨 Design na veia: Prática consolidada em converter **Figma para código** em alto nível
